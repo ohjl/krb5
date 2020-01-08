@@ -234,6 +234,7 @@ typedef _W64 int         ssize_t;
 #define strnicmp  _strnicmp
 #endif
 
+
 /* Windows has its own name for reentrant strtok. */
 #define strtok_r strtok_s
 
